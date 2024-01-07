@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00E5FF,100:6A00FF&text=Hey,+I'm+Bibin+(bbinxx)!&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=40"/>
 
@@ -70,6 +70,13 @@
 ### 🎨 Design & Creative
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,blender&perline=6" />
+</p>
+
+---
+
+### 🔌 IOT & Hardware
+<p align="center">
+  
 </p>
 
 ---
