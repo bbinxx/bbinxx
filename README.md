@@ -15,8 +15,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bbinxx&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🎧 Spotify Recent
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bnsojhyhhkabl2sn11yve8l3r&count={count})
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
