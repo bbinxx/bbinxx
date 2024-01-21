@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🎧 Spotify Recent
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bnsojhyhhkabl2sn11yve8l3r&count={10})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bnsojhyhhkabl2sn11yve8l3r&count=10)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
