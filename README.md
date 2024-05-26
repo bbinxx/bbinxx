@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Node.js<br>🤝 I’m looking for help with React and Flutter<br>🌱 I’m currently learning React<br>
+🔭 I’m currently working on Node.js<br>🤝 I’m looking for help with React and Flutter<br>
 
 
 ## 🌐 Socials:
