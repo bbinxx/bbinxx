@@ -18,10 +18,9 @@
 ### 🎧 Spotify Recent
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bnsojhyhhkabl2sn11yve8l3r&count=10)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bbinxx&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=bbinxx&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
