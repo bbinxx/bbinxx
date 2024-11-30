@@ -30,6 +30,11 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bbinxx&theme=swift&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbinxx&layout=compact&theme=swift&hide_border=true)
 
+### 📈 Additional Stats
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=bbinxx&layout=compact&theme=swift&hide_border=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bbinxx&theme=swift&no-frame=true&no-bg=true&margin-w=4)
+
 ### ✍️ Random Dev Quote
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -37,6 +42,14 @@
 ### 🎧 Spotify Recent
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=bnsojhyhhkabl2sn11yve8l3r&count=5)
+
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bbinxx&theme=swift&no-frame=true&no-bg=true&margin-w=4)
+
+### 📅 GitHub Activity Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bbinxx&theme=xcode)
 
 ---
 
