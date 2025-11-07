@@ -65,7 +65,6 @@ B.Tech CSE Student | Loves building, designing, and breaking things for learning
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=bbinxx&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bbinxx&theme=tokyonight&hide_border=true" height="150" />
 
 <br/>
 
