@@ -36,7 +36,7 @@ B.Tech CSE Student | Loves building, designing, and breaking things for learning
 <p><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,supabase" /></p>
 
 **Deployment & Cloud**
-<p><img src="https://skillicons.dev/icons?i=vercel,netlify,render,digitalocean,cloudflare,heroku" /></p>
+<p><img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,heroku" /></p>
 
 **Tools & Platforms**
 <p><img src="https://skillicons.dev/icons?i=github,postman,linux,windows,canva" /></p>
