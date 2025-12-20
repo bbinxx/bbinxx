@@ -83,16 +83,7 @@ B.Tech CSE Student | Loves building, designing, and breaking things for learning
 
 ---
 
-## 🤝 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/bibinraju/  
-- **Email:** bibinraju541@gmail.com  
-- **Instagram:** https://instagram.com/ibxbin  
-- **GitHub:** https://github.com/bbinxx  
-
-> If I don’t reply, I’m either coding or rebooting my brain.
-
----
 
 <div align="center">
 
