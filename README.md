@@ -1,4 +1,4 @@
-Arithmetic Program Optimization<div >
+<div >
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00E5FF,100:6A00FF&text=Hey,+I'm+Bibin+(bbinxx)!&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=40"/>
 
