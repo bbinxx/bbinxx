@@ -1,9 +1,11 @@
-<div >
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00E5FF,100:6A00FF&text=Hey,+I'm+Bibin+(bbinxx)!&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=40"/>
 
 ### 🚀 Full-Stack Developer • Mobile App Developer  
-B.Tech CSE Student | Loves building, designing, and breaking things to learn.
+**B.Tech CSE Student** | Loves building, designing, and breaking things to learn.
+
+🌐 **Portfolio:** <a href="https://bbinxx.vercel.app/" target="_blank">bbinxx.vercel.app</a>
 
 </div>
 
@@ -17,56 +19,56 @@ B.Tech CSE Student | Loves building, designing, and breaking things to learn.
 - Graphic design enjoyer — pixels deserve respect  
 - Custom ROM enthusiast — flashing phones is a lifestyle  
 
-> “If it works without explanation, I don’t touch it. Sacred code.”
+> *“If it works without explanation, I don’t touch it. Sacred code.”*
 
 ---
 
 ## 🔧 Tech Stack
 
 ### 🧠 Languages
-<p >
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,python,php&perline=7" />
 </p>
 
 ---
 
 ### 🎨 Frontend & Mobile
-<p >
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,androidstudio,tailwind&perline=5" />
 </p>
 
 ---
 
 ### ⚙️ Backend & APIs
-<p >
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=5" />
 </p>
 
 ---
 
 ### 🗄️ Databases
-<p >
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,supabase&perline=5" />
 </p>
 
 ---
 
 ### ☁️ Deployment & Platforms
-<p >
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,heroku&perline=4" />
 </p>
 
 ---
 
 ### 🛠️ Tools & OS
-<p >
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,linux,windows,vscode&perline=6" />
 </p>
 
 ---
 
 ### 🎨 Design & Creative
-<p >
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,blender,figma&perline=6" />
 </p>
 
@@ -79,17 +81,17 @@ B.Tech CSE Student | Loves building, designing, and breaking things to learn.
 - MongoDB indexing — because `.find()` isn’t a strategy  
 - Deployments that don’t cause production anxiety  
 
-> Learning split: 60% docs, 30% debugging, 10% music
+> **Learning split:** 60% docs • 30% debugging • 10% music
 
 ---
 
 ## 📊 GitHub Stats
 
-<div>
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=bbinxx&theme=tokyonight&hide_border=true&count_private=true" height="150" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbinxx&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 
@@ -99,17 +101,17 @@ B.Tech CSE Student | Loves building, designing, and breaking things to learn.
 
 ## 🎧 Currently Listening To
 
-<div >
+<div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=bnsojhyhhkabl2sn11yve8l3r&count=5">
 </div>
 
-> Music doesn’t fix bugs — but it makes the pain aesthetic.
+> *Music doesn’t fix bugs — but it makes the pain aesthetic.*
 
 ---
 
-<div >
+<div align="center">
 
 ⭐ **If something here impressed you, confused you, or made you smile — drop a star.**  
-GitHub’s version of a head nod 🤝
+GitHub’s version of a respectful head nod 🤝
 
 </div>
