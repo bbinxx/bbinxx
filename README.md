@@ -101,9 +101,17 @@
 
 ## 📊 Developer Metrics
 
-<p align="center">
-  <img src="./metrics.svg" alt="GitHub Metrics" />
-</p>
+<div align="center">
+
+### Weekly Overview
+<img src="./metrics.svg" alt="GitHub Metrics" width="100%" />
+
+<br/><br/>
+
+### Detailed Analytics
+<img src="./metrics-detailed.svg" alt="Detailed GitHub Metrics" width="100%" />
+
+</div>
 
 ---
 
