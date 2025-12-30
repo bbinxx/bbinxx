@@ -41,7 +41,7 @@
 
 ### ⚙️ Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=5" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 
 ### 🎨 Design & Creative
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,blender,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,blender&perline=6" />
 </p>
 
 ---
