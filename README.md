@@ -99,6 +99,14 @@
 
 ---
 
+## 📊 Developer Metrics
+
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
+
 ## 🎧 Currently Listening To
 
 <div align="center">
