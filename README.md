@@ -89,27 +89,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bbinxx&theme=tokyonight&hide_border=true&count_private=true" height="150" />
 
-<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbinxx&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+<!-- GitHub Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbinxx&theme=tokyonight" width="100%" />
 
-</div>
+<br/>
 
----
-
-## 📊 Developer Metrics
-
-<div align="center">
-
-### Weekly Overview
-<img src="./metrics.svg" alt="GitHub Metrics" width="100%" />
-
-<br/><br/>
-
-### Detailed Analytics
-<img src="./metrics-detailed.svg" alt="Detailed GitHub Metrics" width="100%" />
+<!-- Stats and Languages Side by Side -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bbinxx&theme=tokyonight" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bbinxx&theme=tokyonight" height="180" />
 
 </div>
 
