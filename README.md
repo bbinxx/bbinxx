@@ -76,7 +76,7 @@
 
 ### 🔌 IOT & Hardware
 <p align="center">
-  
+  <img src="https://skillicons.dev/icons?i=arduino&perline=2" />
 </p>
 
 ---
