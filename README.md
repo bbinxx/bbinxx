@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00E5FF,50:6A00FF,100:FF00C8&text=Bibin%20Raju&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=40&desc=Web%20Developer%20•%20Backend%20•%20Mobile%20Apps&descSize=16&descAlignY=60"/>
 
-
-
-
 </div>
 
 ---
@@ -14,15 +11,10 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-bbinxx.vercel.app-6A00FF?style=for-the-badge\&logo=vercel\&logoColor=white)](https://bbinxx.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-bbinxx-00E5FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/bbinxx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bibin_Raju-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/bibinraju/)
-
 </div>
 
 ---
-
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbinxx&layout=compact&theme=tokyonight&hide_border=true"/>
-
-# 👋 About Me
-
+## About
 ```ts
 const bibin = {
   role: "Software Developer",
@@ -35,29 +27,23 @@ const bibin = {
   ],
   stack: ["Node.js", "Express", "Next.js", "Flutter"],
   databases: ["MongoDB", "MySQL", "Firebase"],
-  hobbies: [
-    "custom ROM flashing",
-    "pixel-perfect UI design",
-    "debugging strange bugs"
+  interests: [
+    "custom ROM development",
+    "UI design",
+    "system debugging"
   ]
 };
 ```
 
-I enjoy building **web platforms, backend services, and mobile apps** with a focus on clean architecture and real-world usability.
+I build web platforms, backend services, and mobile applications with attention to system design and practical usability.
 
-Areas I like working on:
-
-* backend APIs
-* real-time systems
-* mobile applications
-* developer tools
-* smart systems combining software and hardware
+Areas of interest include backend APIs, real-time systems, mobile applications, and systems that integrate software with hardware.
 
 <br clear="right"/>
 
 ---
 
-# 🧰 Tech Stack
+## Technology Stack
 
 ### Languages
 
@@ -89,15 +75,11 @@ Areas I like working on:
 
 ---
 
-# 📊 GitHub Activity
+## Development Activity
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbinxx&theme=tokyonight" width="100%" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=bbinxx&show_icons=true&theme=tokyonight&hide_border=true" height="170">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bbinxx&theme=tokyonight&hide_border=true" height="170">
 
@@ -105,19 +87,13 @@ Areas I like working on:
 
 ---
 
-# 📈 Contribution Graph
+## Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bbinxx&theme=tokyo-night&hide_border=true"/>
 
 ---
 
-# 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/bbinxx/bbinxx/output/snake.svg" />
-
----
-
-# 📚 Currently Learning
+## Currently Learning
 
 | Area                 | Focus                           |
 | -------------------- | ------------------------------- |
@@ -128,15 +104,15 @@ Areas I like working on:
 
 ---
 
-# 📫 Contact
+## Contact
 
-📧 **Email**
+Email
 [bibinraju541@gmail.com](mailto:bibinraju541@gmail.com)
 
-💼 **LinkedIn**
+LinkedIn
 https://www.linkedin.com/in/bibinraju/
 
-🌐 **Portfolio**
+Portfolio
 https://bbinxx.vercel.app/
 
 ---
@@ -144,7 +120,5 @@ https://bbinxx.vercel.app/
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6A00FF,100:00E5FF"/>
-
-⭐ If something here helped you, feel free to star a repo.
 
 </div>
