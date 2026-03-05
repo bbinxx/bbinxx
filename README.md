@@ -1,122 +1,150 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00E5FF,100:6A00FF&text=Hey,+I'm+Bibin+(bbinxx)!&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00E5FF,50:6A00FF,100:FF00C8&text=Bibin%20Raju&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=40&desc=Web%20Developer%20•%20Backend%20•%20Mobile%20Apps&descSize=16&descAlignY=60"/>
 
-### 🚀 Full-Stack Developer • Mobile App Developer  
-**B.Tech CSE Student** | Loves building, designing, and breaking things to learn.
 
-🌐 **Portfolio:** <a href="https://bbinxx.vercel.app/" target="_blank">bbinxx.vercel.app</a>
+
 
 </div>
 
 ---
 
-## 😎 Who Am I?
+<div align="center">
 
-- B.Tech CSE undergrad who treats coding like a survival skill  
-- Backend with **Node.js + Express**, frontend with **Next.js**  
-- Flutter dev who enjoys smooth UIs & hunting bugs  
-- Graphic design enjoyer — pixels deserve respect  
-- Custom ROM enthusiast — flashing phones is a lifestyle  
+[![Portfolio](https://img.shields.io/badge/Portfolio-bbinxx.vercel.app-6A00FF?style=for-the-badge\&logo=vercel\&logoColor=white)](https://bbinxx.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-bbinxx-00E5FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/bbinxx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bibin_Raju-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/bibinraju/)
 
-> *“If it works without explanation, I don’t touch it. Sacred code.”*
+</div>
 
 ---
 
-## 🔧 Tech Stack
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbinxx&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### 🧠 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,python,php&perline=7" />
-</p>
+# 👋 About Me
 
----
+```ts
+const bibin = {
+  role: "Software Developer",
+  education: "B.Tech Computer Science (2022–2026)",
+  focus: [
+    "Backend systems",
+    "Web platforms",
+    "Mobile applications",
+    "Real-time systems"
+  ],
+  stack: ["Node.js", "Express", "Next.js", "Flutter"],
+  databases: ["MongoDB", "MySQL", "Firebase"],
+  hobbies: [
+    "custom ROM flashing",
+    "pixel-perfect UI design",
+    "debugging strange bugs"
+  ]
+};
+```
 
-### 🎨 Frontend & Mobile
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,androidstudio,tailwind&perline=5" />
-</p>
+I enjoy building **web platforms, backend services, and mobile apps** with a focus on clean architecture and real-world usability.
 
----
+Areas I like working on:
 
-### ⚙️ Backend & APIs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=5" />
-</p>
+* backend APIs
+* real-time systems
+* mobile applications
+* developer tools
+* smart systems combining software and hardware
 
----
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,supabase&perline=5" />
-</p>
-
----
-
-### ☁️ Deployment & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,heroku&perline=4" />
-</p>
-
----
-
-### 🛠️ Tools & OS
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,windows,vscode&perline=6" />
-</p>
+<br clear="right"/>
 
 ---
 
-### 🎨 Design & Creative
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,blender&perline=6" />
-</p>
+# 🧰 Tech Stack
+
+### Languages
+
+![Languages](https://skillicons.dev/icons?i=js,ts,python,c,php,html,css)
+
+### Frontend
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)
+
+### Backend
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
+
+### Mobile
+
+![Mobile](https://skillicons.dev/icons?i=flutter)
+
+### Databases
+
+![Database](https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,sqlite)
+
+### Tools
+
+![Tools](https://skillicons.dev/icons?i=git,github,postman,linux,vscode)
+
+### Cloud / Deployment
+
+![Cloud](https://skillicons.dev/icons?i=vercel,netlify,cloudflare,heroku)
 
 ---
 
-## 📚 Currently Learning
-
-- Writing cleaner backend architecture (future-me will thank me)  
-- Flutter animations that don’t feel like PowerPoint  
-- MongoDB indexing — because `.find()` isn’t a strategy  
-- Deployments that don’t cause production anxiety  
-
-> **Learning split:** 60% docs • 30% debugging • 10% music
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Activity
 
 <div align="center">
 
-
-
-<!-- GitHub Profile Summary Cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbinxx&theme=tokyonight" width="100%" />
 
-<br/>
+<br>
 
-<!-- Stats and Languages Side by Side -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bbinxx&theme=tokyonight" height="180" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bbinxx&theme=tokyonight" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=bbinxx&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bbinxx&theme=tokyonight&hide_border=true" height="170">
 
 </div>
 
 ---
 
-## 🎧 Currently Listening To
+# 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=bnsojhyhhkabl2sn11yve8l3r&count=5">
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bbinxx&theme=tokyo-night&hide_border=true"/>
 
-> *Music doesn’t fix bugs — but it makes the pain aesthetic.*
+---
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/bbinxx/bbinxx/output/snake.svg" />
+
+---
+
+# 📚 Currently Learning
+
+| Area                 | Focus                           |
+| -------------------- | ------------------------------- |
+| Backend Architecture | scalable APIs                   |
+| MongoDB              | indexing and performance        |
+| DevOps               | deployment pipelines            |
+| System Design        | structuring larger applications |
+
+---
+
+# 📫 Contact
+
+📧 **Email**
+[bibinraju541@gmail.com](mailto:bibinraju541@gmail.com)
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/bibinraju/
+
+🌐 **Portfolio**
+https://bbinxx.vercel.app/
 
 ---
 
 <div align="center">
 
-⭐ **If something here impressed you, confused you, or made you smile — drop a star.**  
-GitHub’s version of a respectful head nod 🤝
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6A00FF,100:00E5FF"/>
+
+⭐ If something here helped you, feel free to star a repo.
 
 </div>
