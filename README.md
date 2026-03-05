@@ -47,31 +47,31 @@ Areas of interest include backend APIs, real-time systems, mobile applications, 
 
 ### Languages
 
-![Languages](https://skillicons.dev/icons?i=js,ts,python,c,php,html,css)
+<p align="center"><img src="https://skillicons.dev/icons?i=js,ts,python,c,php,html,css" /></p>
 
 ### Frontend
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)
+<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /></p>
 
 ### Backend
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>
 
 ### Mobile
 
-![Mobile](https://skillicons.dev/icons?i=flutter)
+<p align="center"><img src="https://skillicons.dev/icons?i=flutter" /></p>
 
 ### Databases
 
-![Database](https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,sqlite)
+<p align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,sqlite" /></p>
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=git,github,postman,linux,vscode)
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" /></p>
 
 ### Cloud / Deployment
 
-![Cloud](https://skillicons.dev/icons?i=vercel,netlify,cloudflare,heroku)
+<p align="center"><img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,heroku" /></p>
 
 ---
 
