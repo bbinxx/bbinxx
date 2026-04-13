@@ -29,8 +29,9 @@ const bibin = {
   databases: ["MongoDB", "MySQL", "Firebase"],
   interests: [
     "custom ROM development",
-    "UI design",
-    "system debugging"
+    "UI/UX design",
+    "Video Editing",
+    "3D Modeling"
   ]
 };
 ```
@@ -72,6 +73,10 @@ Areas of interest include backend APIs, real-time systems, mobile applications, 
 ### Cloud / Deployment
 
 <p align="center"><img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,heroku" /></p>
+
+### Design Tools
+
+<p align="center"><img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,blender" /></p>
 
 ---
 
