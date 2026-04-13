@@ -23,7 +23,8 @@ const bibin = {
     "Backend systems",
     "Web platforms",
     "Mobile applications",
-    "Real-time systems"
+    "Real-time systems",
+    "IoT & Embedded systems"
   ],
   stack: ["Node.js", "Express", "Next.js", "Flutter"],
   databases: ["MongoDB", "MySQL", "Firebase"],
@@ -77,6 +78,10 @@ Areas of interest include backend APIs, real-time systems, mobile applications, 
 ### Design Tools
 
 <p align="center"><img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,blender" /></p>
+
+### IoT
+
+<p align="center"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /></p>
 
 ---
 
