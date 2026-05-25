@@ -89,7 +89,7 @@ My work bridges the gap between software and hardware, with a keen interest in *
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbinxx&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbinxx&theme=tokyonight" width="80%" />
 </div>
 
 <br/>
