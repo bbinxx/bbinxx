@@ -27,10 +27,10 @@ I am a **Software Developer** and final-year **B.Tech Computer Science** student
 
 My work bridges the gap between software and hardware, with a keen interest in **IoT**, **Real-time Systems**, and **System Design**.
 
-- 🚀 **Current Focus:** Backend Architecture, Scalable APIs, and MongoDB Performance.
+- 🚀 **Current Focus:** Backend Architecture, Scalable APIs & API Performance Optimization.
 - 💻 **Core Stack:** Node.js, Express, Next.js, Flutter, Python.
-- 🎨 **Creative Side:** UI/UX Design, Video Editing, and 3D Modeling.
-- 🔧 **Hobbies:** Custom ROM development, Linux tinkering, and exploring new languages like Rust & Go.
+- 🌐 **Interests:** IoT, Real-time Systems, System Design & DevOps.
+- 🔧 **Exploring:** Custom ROM development, Linux tinkering, Rust & Go.
 
 ---
 
@@ -47,7 +47,7 @@ My work bridges the gap between software and hardware, with a keen interest in *
     <tr>
       <td><strong>Languages</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=py,js,java,c,rust,go,ts,php,html,css" />
+        <img src="https://skillicons.dev/icons?i=py,js,ts,java,c,rust,go,php,html,css" />
       </td>
     </tr>
     <tr>
@@ -59,7 +59,7 @@ My work bridges the gap between software and hardware, with a keen interest in *
     <tr>
       <td><strong>Backend & Frameworks</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,flutter,firebase,tauri,wails" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,flutter,firebase,tauri" />
       </td>
     </tr>
     <tr>
@@ -71,14 +71,21 @@ My work bridges the gap between software and hardware, with a keen interest in *
     <tr>
       <td><strong>DevOps & Tools</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode" />
+        <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,linux,vscode" />
       </td>
     </tr>
     <tr>
       <td><strong>Deployment</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,cloudflare" /> 
-        <em>(Also experienced with Render & DigitalOcean)</em>
+        <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare" />
+        <em>&nbsp;Also: Render & DigitalOcean</em>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Creative Tools</strong></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=ps,ai,blender,ae,pr" />
+        <em>&nbsp;Also: Canva</em>
       </td>
     </tr>
   </tbody>
