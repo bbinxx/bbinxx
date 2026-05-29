@@ -27,7 +27,7 @@ I am a **Software Developer** and final-year **B.Tech Computer Science** student
 
 My work bridges the gap between software and hardware, with a keen interest in **IoT**, **Real-time Systems**, and **System Design**.
 
-- 🚀 **Current Focus:** Backend Architecture, Scalable APIs & API Performance Optimization.
+- 🚀 **Current Focus:** Backend Architecture, Scalable APIs.
 - 💻 **Core Stack:** Node.js, Express, Next.js, Flutter, Python.
 - 🌐 **Interests:** IoT, Real-time Systems, System Design & DevOps.
 - 🔧 **Exploring:** Custom ROM development, Linux tinkering, Rust & Go.
