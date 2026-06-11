@@ -4,9 +4,9 @@
 
 <div align="center">
   <br/>
-  <a href="https://bbinxx.vercel.app/" target="_blank">
+  <!-- <a href="https://bbinxx.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+  </a> -->
   <a href="https://github.com/bbinxx" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -128,11 +128,11 @@ My work bridges the gap between software and hardware, with a keen interest in *
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
         </a>
       </td>
-      <td align="center">
+      <!-- <td align="center">
         <a href="https://bbinxx.vercel.app/">
           <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
