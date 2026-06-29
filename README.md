@@ -93,25 +93,7 @@ My work bridges the gap between software and hardware, with a keen interest in *
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbinxx&theme=tokyonight" width="80%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bbinxx&theme=tokyonight&hide_border=true" width="80%" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bbinxx&theme=tokyo-night&hide_border=true&area=true"/>
-
----
 
 ## 📫 Connect With Me
 
