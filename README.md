@@ -47,7 +47,7 @@ My work bridges the gap between software and hardware, with a keen interest in *
     <tr>
       <td><strong>Languages</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=py,js,ts,java,c,rust,go,php,html,css" />
+        <img src="https://skillicons.dev/icons?i=py,js,java,c,php,html,css" />
       </td>
     </tr>
     <tr>
@@ -59,7 +59,7 @@ My work bridges the gap between software and hardware, with a keen interest in *
     <tr>
       <td><strong>Backend & Frameworks</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,flutter,firebase,tauri" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,flask,flutter,firebase" />
       </td>
     </tr>
     <tr>
@@ -71,7 +71,7 @@ My work bridges the gap between software and hardware, with a keen interest in *
     <tr>
       <td><strong>DevOps & Tools</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,linux,vscode" />
+        <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode" />
       </td>
     </tr>
     <tr>
